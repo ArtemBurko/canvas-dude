@@ -1,3 +1,4 @@
+debugger;
 drawHead();
 drawBody();
 drawLeftHand();
